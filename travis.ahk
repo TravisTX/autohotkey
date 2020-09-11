@@ -85,6 +85,19 @@ Sleep, 500
 WinActivate, ahk_id %prev%
 return
 
+; typing `share - tells teams to share screen #2
+::``share::
+WinActivate, ahk_exe Teams.exe
+Sleep, 100
+Send ^+e ; CTRL+SHIFT+E
+Sleep, 200
+Send `t ; TAB
+Sleep, 200
+Send {Down} ; down arrow
+;Sleep, 100
+;Send {Enter} ; enter key
+return
+
 ; typing `away - sets teams to away mode
 ::``away::
 prev:=WinActive("A")
