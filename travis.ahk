@@ -33,6 +33,7 @@ Capslock::LWin
 ::``flip::(╯°□°）╯︵ ┻━┻
 ::``dissapoint::ಠ_ಠ
 ::``grim::😬
+::``tm::™
 
 ; TYPOS
 ::varaible::variable
