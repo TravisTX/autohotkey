@@ -34,10 +34,6 @@ Capslock::LWin
 ::``dissapoint::ಠ_ಠ
 ::``grim::😬
 
-
-; launch any sln files in the current directory
-::``sln::./*.sln
-
 ; TYPOS
 ::varaible::variable
 ::varialbe::variable
