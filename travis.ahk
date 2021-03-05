@@ -34,6 +34,7 @@ Capslock::LWin
 ::``dissapoint::ಠ_ಠ
 ::``grim::😬
 ::``tm::™
+::``deg::°
 
 ::^1::¹
 ::^2::²
