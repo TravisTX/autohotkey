@@ -35,6 +35,13 @@ Capslock::LWin
 ::``grim::😬
 ::``tm::™
 
+::^1::¹
+::^2::²
+::^3::³
+::n^1::n¹
+::n^2::n²
+::n^3::n³
+
 ; TYPOS
 ::varaible::variable
 ::varialbe::variable
